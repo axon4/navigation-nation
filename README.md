@@ -1,2 +1,2 @@
 # Navigation Nation
-* Animated navigation menu
+* Animated navigation menu.

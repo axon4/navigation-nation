@@ -1,7 +1,7 @@
-# Navigation Nation
+# Navigation-Nation
 
-* Animated navigation menu.
-* Hamburger menu is also animated.
+* animated navigation-menu
+* hamBurger-menu also animated
 
 ## Stack
 
